@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mjars to process for resources: List(C:\Users\m\Dropbox\projectworkspace\SCALA\libs\android-support-v4.jar)[0m
+[0m[[0mdebug[0m] [0mbldr.packageApk(C:\Users\m\Dropbox\projectworkspace\SCALA\bin\resources-debug.ap_, C:\Users\m\Dropbox\projectworkspace\SCALA\bin\classes.dex, List(C:\Users\m\Dropbox\projectworkspace\SCALA\libs\android-support-v4.jar), null, C:\Users\m\Dropbox\projectworkspace\SCALA\bin\jni, true, DefaultSigningConfig{storeFile=C:\Users\m\.android\debug.keystore, storePassword=android, keyAlias=AndroidDebugKey, keyPassword=android, storeType=jks}, C:\Users\m\Dropbox\projectworkspace\SCALA\bin\SCALA-debug-unaligned.apk)[0m
+[0m[[0minfo[0m] [0mPackaged: SCALA-debug-unaligned.apk (272.74KB)[0m

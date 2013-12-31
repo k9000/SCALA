@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mFiltering compile:dependency-classpath from: List(Attributed(C:\Users\m\Dropbox\projectworkspace\SCALA\libs\android-support-v4.jar), Attributed(C:\Users\m\.sbt\boot\scala-2.10.3\lib\scala-library.jar))[0m
+[0m[[0mdebug[0m] [0mandroid-support-v4.jar => None: None[0m
+[0m[[0mdebug[0m] [0mscala-library.jar => Some(compile-internal): Some(org.scala-lang:scala-library:2.10.3 ())[0m
